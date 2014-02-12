@@ -102,7 +102,7 @@ cursor: pointer;
     padding-bottom: 5px;
 	padding-left: 10px;
 	padding-right: 10px;
-	font-weight: 525;
+	font-weight: 510;
 	font-size: 48px;
 	font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
 	font-style: normal;
@@ -128,7 +128,7 @@ cursor: pointer;
     padding-bottom: 5px;
 	padding-left: 10px;
 	padding-right: 10px;
-	font-weight: 525;
+	font-weight: 510;
 	font-size: 48px;
 	font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
 	font-style: normal;
@@ -154,7 +154,7 @@ cursor: pointer;
     padding-bottom: 5px;
 	padding-left: 10px;
 	padding-right: 10px;
-	font-weight: 525;
+	font-weight: 510;
 	font-size: 48px;
 	font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
 	font-style: normal;
@@ -247,6 +247,9 @@ cursor: pointer;
 	display: block;
 	cursor: pointer;
 }
+#basecamp:hover {
+	cursor: pointer;
+}
 
 .highrise_arrow {
 	display: none;
@@ -258,6 +261,10 @@ cursor: pointer;
 
 #highrise:hover .highrise_arrow{
 	display: block;
+	cursor: pointer;
+}
+
+#highrise:hover {
 	cursor: pointer;
 }
 
@@ -287,6 +294,9 @@ cursor: pointer;
 	cursor: pointer;
 }
 
+#campfire:hover {
+	cursor: pointer;
+}
 span {
 	text-decoration: underline;
 	color: blue;
